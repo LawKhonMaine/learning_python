@@ -6,15 +6,17 @@
 # greet("Kyaw Kyaw","morning") 
 # greet(time="night",name="my lovely girl")
 
-def greet (name="Unknown name",time="unknown time") :
+def greet (name="Unknown name",time="Unknown time") :
     print (f'Hello good {time},{name}.')
    
 
     question=(input("Do you have girlfriend? yes or no :"))
     if question == "yes" :
-       print("Lol,you are better than me.")
+       print("I hope,you will be able to marry her.")
     else :
-        print("So sad.")   
+        print("Don't worry,you can find that.")   
 
-greet(input("Your name:"),input("morning or afternoon or night :")) 
+greet(input("Your name :"),input("morning or afternoon or night :")) 
+
+
    
