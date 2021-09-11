@@ -1,3 +1,5 @@
 # learning_python
 
-Testing
+Testing myself and I am beginner.
+
+
