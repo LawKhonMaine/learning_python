@@ -1,6 +1,6 @@
 #for loop
 
-# names=["Aung","Kyaw","Zaw","Hlaing Min Than","Law Khon Maine",'Susu']
+# names=["Aung","Kyaw","Zaw","Than Than","Law Khon Maine",'Susu']
 
 # for name in names :
 #     if name == "Hlaing Min Than" :
